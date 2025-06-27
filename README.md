@@ -9,31 +9,31 @@ Developed as part of an internship project under **SmatIntrenz**.
 
  📂 Project Structure
 
-ResolveNow/
-│
-├── backend/
-│ ├── .env
-│ ├── Schema.js
-│ ├── config.js
-│ ├── index.js
-│ ├── package.json
-│ └── readme.md
-│
-├── frontend/
-│ ├── public/
-│ │ └── index.html
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── admin/
-│ │ │ ├── agent/
-│ │ │ ├── common/
-│ │ │ └── user/
-│ │ ├── Images/
-│ │ ├── App.css
-│ │ ├── App.js
-│ │ └── index.js
-│ ├── package.json
-│ └── README.md
+ResolveNow:
+
+backend:
+  1 .env
+  2.Schema.js
+  3.config.js
+  4.index.js
+  5.package.json
+  6.readme.md
+
+ frontend:
+  A.public:
+     1.index.html
+  B.src:
+      C.components
+         1.admin
+         2. agent
+         3. common
+         4.user
+   D.Images
+   E. App.css
+   F. App.js
+      1.index.js
+   G. package.json
+   H.README.md
 
 
 
