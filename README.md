@@ -11,7 +11,7 @@ Developed as part of an internship project under **SmatIntrenz**.
 
 ResolveNow:
 
-backend:
+backend:-
   1 .env
   2.Schema.js
   3.config.js
@@ -20,9 +20,9 @@ backend:
   6.readme.md
 
  frontend:
-  A.public:
+  A.public:-
      1.index.html
-  B.src:
+  B.src:-
       C.components
          1.admin
          2. agent
@@ -76,7 +76,7 @@ git :https://github.com/abhinavh-77/Resolvenow-your-platform-for-online-complain
 
 2️⃣ Install Backend Dependencies:
 
-cd backend
+cd backend-
 npm install-
 node index.js-
 npm start
