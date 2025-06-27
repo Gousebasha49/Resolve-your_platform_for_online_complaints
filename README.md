@@ -77,14 +77,14 @@ git :https://github.com/abhinavh-77/Resolvenow-your-platform-for-online-complain
 2️⃣ Install Backend Dependencies:
 
 cd backend
-npm install
-node index.js
+npm install-
+node index.js-
 npm start
 
-3️⃣ Install Frontend Dependencies
+3️⃣ Install Frontend Dependencies:
 
-cd frontend
-npm install
+cd frontend-
+npm install-
 npm start
 
 
