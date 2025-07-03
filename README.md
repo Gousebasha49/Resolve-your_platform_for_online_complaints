@@ -71,7 +71,7 @@ backend:-
 
 ### 1️⃣ Clone the repository
 
-git :https://github.com/Gousebasha49/Resolvenow-your-platform-for-online-complaints
+git :(https://github.com/Gousebasha49/Resolve-your_platform_for_online_complaints)
 
 
 2️⃣ Install Backend Dependencies:
