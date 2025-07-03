@@ -71,7 +71,7 @@ backend:-
 
 ### 1️⃣ Clone the repository
 
-git :https://github.com/abhinavh-77/Resolvenow-your-platform-for-online-complaints
+git :https://github.com/Gousebasha49/Resolvenow-your-platform-for-online-complaints
 
 
 2️⃣ Install Backend Dependencies:
@@ -129,9 +129,9 @@ Mobile UI optimization
 🙏 Credits
 Internship conducted by SmatIntrenz
 
-Developed by Haridasula Abhinav
+Developed by Gouse Basha shaik
 
 
-📧 Email:habhinavnaidu2005@gmail.com
+📧 Email:bashagousebasha59@gmail.com
 
 
